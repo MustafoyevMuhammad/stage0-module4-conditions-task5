@@ -19,5 +19,6 @@ public class RangeNumbersPrinter {
                 break;
             default:
                 System.out.println("out of range");
+          }
     }
 }
